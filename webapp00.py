@@ -20,3 +20,4 @@ Escrever(db)
 
 #values = st.slider("Select a range of values", 0.0, 100.0, (5.0, 15.0))
 #st.write("Values:", values)
+st.image("desenvolvimento.jpg", caption="teste")
